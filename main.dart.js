@@ -8397,7 +8397,7 @@ _.b=a
 _.c=null
 _.$ti=b},
 wk:function wk(){},
-amN:function(){var s,r,q,p=D.ant(1),o=H.a([],t.zX),n=new R.DR($,!0,new N.eI(H.a([],t.F_),t.FS),P.v(t.HE,t.d_))
+amN:function(){var s,r,q,p=D.ant(0),o=H.a([],t.zX),n=new R.DR($,!0,new N.eI(H.a([],t.F_),t.FS),P.v(t.HE,t.d_))
 n.hi$=0
 s=t.N
 r=t.K
@@ -56191,7 +56191,7 @@ s=s.x
 s=q.ca(0,s==null?H.as():s)
 q=K.h1(20)
 p=H.a([new O.ea(0,C.cg,new P.d(5,5),5)],t.c)
-return T.OE(H.a([n,r,new T.dn(C.au,M.eb(o,T.acy(K.h1(20),U.Ss("me.jpeg",C.hy,o)),C.n,o,o,new S.dm(o,o,o,q,p,o,C.Q),o,s.b*0.3,o,o,o,o,o),o)],t.E),C.dD)}}
+return T.OE(H.a([n,r,new T.dn(C.au,M.eb(o,T.acy(K.h1(20),U.Ss("assets/me.jpeg",C.hy,o)),C.n,o,o,new S.dm(o,o,o,q,p,o,C.Q),o,s.b*0.3,o,o,o,o,o),o)],t.E),C.dD)}}
 X.Bj.prototype={
 L:function(a,b){var s,r,q,p,o=null
 $.b8()
@@ -56345,7 +56345,7 @@ r=C.a3.j(0,800).a
 r=P.aL(204,r>>>16&255,r>>>8&255,r&255)
 q=K.h1(20)
 p=H.a([new O.ea(0,C.w,new P.d(5,5),5)],t.c)
-return G.a86(M.eb(C.a6,T.Xs(H.a([U.EY(L.iP("HOME",o,o,o,o,o,o,o,B.eK(C.j,o,C.N,o,o),o,o,o),new E.P7(m)),U.EY(L.iP("ABOUT",o,o,o,o,o,o,o,B.eK(C.j,o,C.N,o,o),o,o,o),new E.P8(m)),new T.dn(C.au,U.EY(L.iP("SKILLS",o,o,o,o,o,o,o,B.eK(C.j,o,C.N,o,o),o,o,o),new E.P9(m)),o),new T.dn(C.o1,U.EY(L.iP("PROJECTS",o,o,o,o,o,o,o,B.eK(C.j,o,C.N,o,o),o,o,o),new E.Pa(m)),o),new R.ED(o),new T.dn(C.o0,U.Ss("develop.png",o,o),o)],t.E),C.dC),C.n,o,o,new S.dm(r,o,o,q,p,o,C.Q),o,70,new V.aT(50,0,50,50),new V.aT(50,0,50,0),o,o,s.a*80),o,C.bk,o,n,o,l,o,o)},
+return G.a86(M.eb(C.a6,T.Xs(H.a([U.EY(L.iP("HOME",o,o,o,o,o,o,o,B.eK(C.j,o,C.N,o,o),o,o,o),new E.P7(m)),U.EY(L.iP("ABOUT",o,o,o,o,o,o,o,B.eK(C.j,o,C.N,o,o),o,o,o),new E.P8(m)),new T.dn(C.au,U.EY(L.iP("SKILLS",o,o,o,o,o,o,o,B.eK(C.j,o,C.N,o,o),o,o,o),new E.P9(m)),o),new T.dn(C.o1,U.EY(L.iP("PROJECTS",o,o,o,o,o,o,o,B.eK(C.j,o,C.N,o,o),o,o,o),new E.Pa(m)),o),new R.ED(o),new T.dn(C.o0,U.Ss("assets/develop.png",o,o),o)],t.E),C.dC),C.n,o,o,new S.dm(r,o,o,q,p,o,C.Q),o,70,new V.aT(50,0,50,50),new V.aT(50,0,50,0),o,o,s.a*80),o,C.bk,o,n,o,l,o,o)},
 $C:"$0",
 $R:0,
 $S:389}
