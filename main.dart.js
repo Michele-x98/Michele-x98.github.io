@@ -63521,7 +63521,7 @@ s=t.p
 return A.hR(A.a([A.f4("EXPERIENCE & EDUCATION",q,q,q,q,q,q,q,A.dz().$5$color$fontSize$fontWeight$letterSpacing$wordSpacing(B.i,26,B.am,5,10),q,q,q),B.Mn,A.px(A.a([A.DB(r.a,1,q),A.cq(q,q,30),A.DB(r.b,1,q)],s),B.ac,B.aq,B.bb)],s),B.ac,B.aq)},
 $S:422}
 A.QO.prototype={
-$0(){var s,r="assets/CV_Benedetti.pdf"
+$0(){var s,r="assets/assets/CV_Benedetti.pdf"
 A.lC("Download CV")
 s=document.createElement("a")
 s.href=r
